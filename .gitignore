@@ -1,0 +1,5 @@
+
+# KiCad backup files
+/boards/*.bak
+/boards/*/#auto_saved_files#
+/boards/*/*-backups/
