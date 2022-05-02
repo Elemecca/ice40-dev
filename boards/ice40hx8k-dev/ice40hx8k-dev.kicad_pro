@@ -391,10 +391,6 @@
           "/Power/+1V2_PLL1",
           "/Power/GND_PLL0",
           "/Power/GND_PLL1",
-          "/VCCIO_0",
-          "/VCCIO_1",
-          "/VCCIO_2",
-          "/VCCIO_3",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -467,6 +463,26 @@
     [
       "82edc4e5-8fe3-42cd-ba93-cc1b8592dbc9",
       "Power"
+    ],
+    [
+      "e7c79d4b-135c-450f-9185-ef5872e3d0db",
+      "USB_Config"
+    ],
+    [
+      "e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28",
+      "IO_Bank_0"
+    ],
+    [
+      "78bea89b-ed16-49e6-81bb-af74979c6592",
+      "IO_Bank_1"
+    ],
+    [
+      "262fb82e-d5ef-4dbf-b8d7-6d86be4595d1",
+      "IO_Bank_2"
+    ],
+    [
+      "b2349b08-d96e-4770-853b-e2df17c7bb7e",
+      "IO_Bank_3"
     ]
   ],
   "text_variables": {}
