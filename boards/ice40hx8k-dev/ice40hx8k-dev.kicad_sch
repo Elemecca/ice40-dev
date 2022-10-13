@@ -370,7 +370,7 @@
       (reference "FB4") (unit 1) (value "Ferrite") (footprint "")
     )
     (path "/e7c79d4b-135c-450f-9185-ef5872e3d0db/53c6baae-6c2d-4991-8918-ffac157559db"
-      (reference "J1") (unit 1) (value "USB4500-03-0-A") (footprint "0Local:GCT_USB4500")
+      (reference "J4") (unit 1) (value "USB4520-03-1") (footprint "0Local:GCT_USB45xx")
     )
     (path "/82edc4e5-8fe3-42cd-ba93-cc1b8592dbc9/3fd77e15-337a-431d-a8c6-c8dd565f105b"
       (reference "R1") (unit 1) (value "100R") (footprint "0Local:R_SMD_0402_Pad0.5mm")
