@@ -382,28 +382,28 @@
       (reference "FB4") (unit 1) (value "Ferrite") (footprint "")
     )
     (path "/e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28/d9f2cfc8-d883-4942-b0f7-7f5925afaaa3"
-      (reference "H1") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H1") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28/864f8668-4001-40cc-9168-aeb796ee14ac"
-      (reference "H2") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H2") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/78bea89b-ed16-49e6-81bb-af74979c6592/14f12154-e709-43e1-b02f-144d15664ec8"
-      (reference "H3") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H3") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/78bea89b-ed16-49e6-81bb-af74979c6592/75fcbf4d-8391-4d84-9d17-1059e59f3431"
-      (reference "H4") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H4") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/262fb82e-d5ef-4dbf-b8d7-6d86be4595d1/24860299-431a-45af-b34a-1d2ee77c313e"
-      (reference "H5") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H5") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/262fb82e-d5ef-4dbf-b8d7-6d86be4595d1/2b70b2e0-6362-432c-ac72-40ec6d05757b"
-      (reference "H6") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H6") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/b2349b08-d96e-4770-853b-e2df17c7bb7e/ddfba1df-b28c-4400-bc75-ad3615e3a24f"
-      (reference "H7") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H7") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/b2349b08-d96e-4770-853b-e2df17c7bb7e/3801cf7a-1c6f-4953-b5c3-32aa7d912351"
-      (reference "H8") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+      (reference "H8") (unit 1) (value "9774020633") (footprint "0Local:MountingHole_2.2mm_M2_Pad6mm")
     )
     (path "/e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28/b477c692-d69e-492a-aa92-9273997954c7"
       (reference "J1") (unit 1) (value "DF40HC(4.0)-80DS") (footprint "0Local:Hirose_DF40C-80DS")

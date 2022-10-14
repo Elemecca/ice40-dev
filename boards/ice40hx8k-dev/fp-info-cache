@@ -1,4 +1,4 @@
-20120975131901809
+20124306605349465
 0Local
 C_SMD_0402_Pad0.5mm
 SMD 0402 (1005 Metric), square (rectangular) end terminal
@@ -14,6 +14,13 @@ USB Type C Connector - USB 2.0 Only
 20
 17
 0Local
+Hirose_DF40C-80DS
+
+
+0
+80
+80
+0Local
 Lattice_caBGA-256_14x14mm_Layout16x16_P0.8mm_Ball0.4mm_Pad0.5mm_SMD
 Lattice caBGA-256 for iCE40HX8K FPGA
 Lattice caBGA 256 0.8
@@ -27,6 +34,13 @@ Lattice caBGA 256 0.8
 0
 256
 256
+0Local
+MountingHole_2.2mm_M2_Pad6mm
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+1
+1
 0Local
 R_SMD_0402_Pad0.5mm
 SMD 0402 (1005 Metric), square (rectangular) end terminal
