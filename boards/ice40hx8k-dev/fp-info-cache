@@ -1,4 +1,4 @@
-20120975131148549
+20120975131901809
 0Local
 C_SMD_0402_Pad0.5mm
 SMD 0402 (1005 Metric), square (rectangular) end terminal
@@ -11,8 +11,8 @@ GCT_USB45xx
 USB Type C Connector - USB 2.0 Only
 
 0
-16
-13
+20
+17
 0Local
 Lattice_caBGA-256_14x14mm_Layout16x16_P0.8mm_Ball0.4mm_Pad0.5mm_SMD
 Lattice caBGA-256 for iCE40HX8K FPGA

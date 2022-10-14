@@ -144,6 +144,18 @@
     (path "/e7c79d4b-135c-450f-9185-ef5872e3d0db/b5ab61b9-802d-4fbc-8c64-ae6319076bee"
       (reference "#PWR014") (unit 1) (value "GND") (footprint "")
     )
+    (path "/e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28/2bd564d3-be07-4996-b3d4-bc52d147d30e"
+      (reference "#PWR015") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/78bea89b-ed16-49e6-81bb-af74979c6592/c63a0129-b3f2-4dd4-9de0-52d75edc0b7d"
+      (reference "#PWR016") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/262fb82e-d5ef-4dbf-b8d7-6d86be4595d1/9d2ec01e-d1c9-4c52-8704-4775d05f4ed0"
+      (reference "#PWR017") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/b2349b08-d96e-4770-853b-e2df17c7bb7e/10765f59-4715-4180-95e5-2844da831f09"
+      (reference "#PWR018") (unit 1) (value "GND") (footprint "")
+    )
     (path "/82edc4e5-8fe3-42cd-ba93-cc1b8592dbc9/8de44a3b-0d1c-4d53-9e2e-3829ec065dcb"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -369,8 +381,44 @@
     (path "/e7c79d4b-135c-450f-9185-ef5872e3d0db/63149893-73ff-4233-add0-8590a2d991bc"
       (reference "FB4") (unit 1) (value "Ferrite") (footprint "")
     )
+    (path "/e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28/d9f2cfc8-d883-4942-b0f7-7f5925afaaa3"
+      (reference "H1") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28/864f8668-4001-40cc-9168-aeb796ee14ac"
+      (reference "H2") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/78bea89b-ed16-49e6-81bb-af74979c6592/14f12154-e709-43e1-b02f-144d15664ec8"
+      (reference "H3") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/78bea89b-ed16-49e6-81bb-af74979c6592/75fcbf4d-8391-4d84-9d17-1059e59f3431"
+      (reference "H4") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/262fb82e-d5ef-4dbf-b8d7-6d86be4595d1/24860299-431a-45af-b34a-1d2ee77c313e"
+      (reference "H5") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/262fb82e-d5ef-4dbf-b8d7-6d86be4595d1/2b70b2e0-6362-432c-ac72-40ec6d05757b"
+      (reference "H6") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/b2349b08-d96e-4770-853b-e2df17c7bb7e/ddfba1df-b28c-4400-bc75-ad3615e3a24f"
+      (reference "H7") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/b2349b08-d96e-4770-853b-e2df17c7bb7e/3801cf7a-1c6f-4953-b5c3-32aa7d912351"
+      (reference "H8") (unit 1) (value "9774020633") (footprint "Mounting_Wuerth:Mounting_Wuerth_WA-SMSI-M1.6_H2mm_9774020633")
+    )
+    (path "/e39c0c43-c4e4-45d9-9ed5-c8b6c2efcb28/b477c692-d69e-492a-aa92-9273997954c7"
+      (reference "J1") (unit 1) (value "DF40HC(4.0)-80DS") (footprint "0Local:Hirose_DF40C-80DS")
+    )
+    (path "/78bea89b-ed16-49e6-81bb-af74979c6592/d7a64451-34a3-4634-98a5-be767fde57b4"
+      (reference "J2") (unit 1) (value "DF40HC(4.0)-80DS") (footprint "0Local:Hirose_DF40C-80DS")
+    )
+    (path "/262fb82e-d5ef-4dbf-b8d7-6d86be4595d1/ff7d5a90-71bc-4917-97f9-476a37f8e82d"
+      (reference "J3") (unit 1) (value "DF40HC(4.0)-80DS") (footprint "0Local:Hirose_DF40C-80DS")
+    )
+    (path "/b2349b08-d96e-4770-853b-e2df17c7bb7e/f4066445-f9b8-400b-b4f4-98535eedf76b"
+      (reference "J4") (unit 1) (value "DF40HC(4.0)-80DS") (footprint "0Local:Hirose_DF40C-80DS")
+    )
     (path "/e7c79d4b-135c-450f-9185-ef5872e3d0db/53c6baae-6c2d-4991-8918-ffac157559db"
-      (reference "J4") (unit 1) (value "USB4520-03-1") (footprint "0Local:GCT_USB45xx")
+      (reference "J5") (unit 1) (value "USB4520-03-1") (footprint "0Local:GCT_USB45xx")
     )
     (path "/82edc4e5-8fe3-42cd-ba93-cc1b8592dbc9/3fd77e15-337a-431d-a8c6-c8dd565f105b"
       (reference "R1") (unit 1) (value "100R") (footprint "0Local:R_SMD_0402_Pad0.5mm")
@@ -388,10 +436,10 @@
       (reference "R5") (unit 1) (value "12k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e7c79d4b-135c-450f-9185-ef5872e3d0db/fe209cd9-8e62-44c8-a520-0f2de1ec6faf"
-      (reference "R6") (unit 1) (value "100k") (footprint "")
+      (reference "R6") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e7c79d4b-135c-450f-9185-ef5872e3d0db/1ee8d1e2-b5b9-4b7d-b693-94c4db202f65"
-      (reference "R7") (unit 1) (value "15k") (footprint "")
+      (reference "R7") (unit 1) (value "15k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/82edc4e5-8fe3-42cd-ba93-cc1b8592dbc9/bb9b2d5f-944a-49ac-b41a-610d01495ae3"
       (reference "U1") (unit 1) (value "ICE40HX8K-CT256") (footprint "0Local:Lattice_caBGA-256_14x14mm_Layout16x16_P0.8mm_Ball0.4mm_Pad0.5mm_SMD")
